@@ -1,0 +1,37 @@
+[
+  {
+    "fileName": "Scan2024-12-20_114427.pdf",
+    "isInvoice": false,
+    "invoiceDate": null,
+    "sellerName": null,
+    "firstItem": null
+  },
+  {
+    "fileName": "Scan2024-12-20_114554.pdf",
+    "isInvoice": false,
+    "invoiceDate": "2024-08-30",
+    "sellerName": "Bundesagentur für Arbeit",
+    "firstItem": null
+  },
+  {
+    "fileName": "Scan2024-12-20_114617.pdf",
+    "isInvoice": false,
+    "invoiceDate": null,
+    "sellerName": "Breckau Günther PartmbB",
+    "firstItem": null
+  },
+  {
+    "fileName": "Scan2024-12-20_114725.pdf",
+    "isInvoice": true,
+    "invoiceDate": "2024-07-23",
+    "sellerName": "Breckau Günther PartmbB",
+    "firstItem": "Einkommensteuererklärung ohne Ermittlung der einzelnen Einkünfte"
+  },
+  {
+    "fileName": "Scan2024-12-20_114829.pdf",
+    "isInvoice": true,
+    "invoiceDate": "2024-04-09",
+    "sellerName": "WALDHORN-APOTHEKE",
+    "firstItem": "VITAMIN B12 1.000 µg Lichtenstein"
+  }
+]
