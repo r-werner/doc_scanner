@@ -28,19 +28,13 @@ GEMINI_API_KEY=your_api_key_here
 ### Folder Structure
 Ensure your workspace has the following structure:
 ```markdown
-.DS_Store
 .env
 .gitignore
 invoice-processor.ts
 package.json
 test_files/
-    .DS_Store
-    backup/
-        .DS_Store
-    error/
     invoices/
     non-invoices/
-    results.json
 tsconfig.json
 ```
 
